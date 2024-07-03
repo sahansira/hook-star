@@ -1,9 +1,9 @@
-# hookify
-🚀 Hookify: The Ultimate Collection of Custom React Hooks
+# Hook-star
+🚀 Hook-star: The Ultimate Collection of Custom React Hooks
 
-Are you a React developer looking to streamline your workflow and enhance your projects with reusable, efficient, and powerful hooks? Look no further than Hookify! 🎉
+Are you a React developer looking to streamline your workflow and enhance your projects with reusable, efficient, and powerful hooks? Look no further than Hook-star! 🎉
 
-Hookify offers a comprehensive suite of custom hooks designed to simplify your development process and boost productivity. Whether you're managing state, fetching data, handling forms, or creating responsive layouts, Hookify has got you covered.
+Hook-star offers a comprehensive suite of custom hooks designed to simplify your development process and boost productivity. Whether you're managing state, fetching data, handling forms, or creating responsive layouts, Hook-star has got you covered.
 
 🌟 Key Features:
 Easy to Use: Simple and intuitive API for quick integration.
@@ -25,4 +25,4 @@ useClipboard - Copy text to clipboard with a single call.
 🔗 Get Started:
 Explore the documentation, installation instructions, and usage examples on our GitHub repository.
 
-Join the Hookify community today and take your React projects to the next level!
+Join the Hook-star community today and take your React projects to the next level!
