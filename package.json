@@ -1,0 +1,35 @@
+{
+  "name": "hookify",
+  "version": "1.0.0",
+  "description": "A collection of custom React hooks",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/hookify.git"
+  },
+  "keywords": [
+    "react",
+    "hooks",
+    "typescript"
+  ],
+  "author": "Sahan Sirisekara",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/hookify/issues"
+  },
+  "homepage": "https://github.com/yourusername/hookify#readme",
+  "peerDependencies": {
+    "react": "^17.0.0 || ^18.0.0",
+    "react-dom": "^17.0.0 || ^18.0.0"
+  },
+  "devDependencies": {
+    "@types/react": "^17.0.0",
+    "@types/react-dom": "^17.0.0",
+    "typescript": "^4.0.0"
+  }
+}
